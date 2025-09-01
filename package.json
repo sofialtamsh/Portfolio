@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "scripts": {
+    "start": "echo 'Open index.html in your browser'"
+  },
+  "author": "Sofi Altamsh",
+  "license": "MIT"
+} 
