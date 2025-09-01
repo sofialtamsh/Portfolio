@@ -446,7 +446,7 @@
                 <div class="col-md-6">
                     <div class="contact-form">
                         <h3 class="mb-4">Send Me a Message</h3>
-                        <form action="https://formsubmit.co/sofialtamsh123@email.com" method="POST" id="contactForm" onsubmit="return submitForm()">
+                        <form action="https://formsubmit.co/sofialtamsh123@email.com" method="POST" id="contactForm">
                             <div class="mb-3">
                                 <label for="name" class="form-label">Your Name</label>
                                 <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
@@ -459,10 +459,14 @@
                                 <label for="message" class="form-label">Message</label>
                                 <textarea class="form-control" id="message" name="message" rows="4" placeholder="Type your message here..." required></textarea>
                             </div>
+                        
+                            <!-- FormSubmit hidden inputs -->
                             <input type="hidden" name="_subject" value="New Portfolio Message from Contact Form">
                             <input type="hidden" name="_captcha" value="false">
                             <input type="hidden" name="_next" value="https://sofialtamsh.github.io/Portfolio/thanks.html">
-                            <button type="submit" class="btn btn-primary w-100" href="https://sofialtamsh.github.io/Portfolio/thanks.html">Send Message</button>
+                        
+                            <!-- Correct submit button -->
+                            <button type="submit" class="btn btn-primary w-100">Send Message</button>
                         </form>
                     </div>
                 </div>
