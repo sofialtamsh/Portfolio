@@ -396,7 +396,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function submitForm() {
   const form = document.querySelector('.my-form');
   const formData = new FormData(form);
-  const url = 'https://formsubmit.co/your-email@example.com';
+  const url = 'https://formsubmit.co/sofialtamsh123@gmail.com.com';
 
   fetch(url, {
     method: 'POST',
