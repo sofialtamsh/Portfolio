@@ -1,4 +1,4 @@
-# Sofi Altamsh - NLP Engineer Portfolio
+# Sofi Altamsh - ML Engineer Portfolio
 
 I'm a passionate Natural Language Processing (NLP) Engineer & AI Enthusiast, driven by the power of data and artificial intelligence. I specialize in building 🔥 data-driven solutions with expertise in Python, data analysis, NLP, LLMs, Deep Learning and cutting-edge machine learning techniques. My goal is to create or train impactful models that solve real-world problems and push the boundaries of AI.
 
